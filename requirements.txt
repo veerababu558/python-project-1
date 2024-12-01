@@ -1,0 +1,5 @@
+requests>=2.25.0  # HTTP library for making requests
+numpy>=1.19.0     # Numerical computations library
+pandas>=1.2.3     # Data analysis library
+flask>=2.0.0      # Web framework for building web applications
+matplotlib>=3.4.0 # Plotting library for data visualization
